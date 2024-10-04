@@ -4,7 +4,6 @@
 import boto3
 from botocore.exceptions import ClientError
 from datetime import datetime, timedelta
-import fnmatch
 import io
 import json
 import pandas as pd
